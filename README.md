@@ -1,1 +1,2 @@
-# GALAXY-HUNTER
+# synchronousBallMovement
+Ball moving synchronously
